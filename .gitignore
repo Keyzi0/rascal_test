@@ -1,0 +1,25 @@
+# OS and IDE
+.DS-Store
+*.sublime-*
+/.idea
+/.vscode
+/gateway/.vscode
+/.history
+/*.code-workspace
+
+/.vagrant
+
+
+# build
+coverage
+/node_modules
+/dist
+run.log
+/ts-node-*
+
+service-log.json
+**/.envrc
+
+#telepresence
+telepresence.log
+
